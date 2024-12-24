@@ -1,0 +1,5 @@
+Mufasa|Guardianship|Automatically negates the first negative event encountered.
+Sarafina|Strategic Vision|Increases Stamina by 300 points after passing a Special Tile.
+Kopa|Swift Runner|Increases movement speed by 1 tile for every two turns.
+Zuri|Mystic Insight|Reveals the type of the next tile you will land on, once per round.
+Kion|Battle Hardened|Reduces Strength penalties from negative events by 50%.

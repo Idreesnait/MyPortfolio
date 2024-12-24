@@ -1,0 +1,11 @@
+Found hidden food stash in the Pride Lands|Straight to the Pride Lands|Gain 400
+Tried to impress with a terrible roar. Everyone laughed.|Cub Training|Lose 200
+Accidentally stepped on a porcupine. Ouch!|Cub Training|Lose 300
+Helped a meerkat find a snack. Feeling the karma!|Cub Training|Gain 400
+Chased your tail for hours. It was... unproductive.|Straight to the Pride Lands|Lose 150
+Practiced climbing a tree but got stuck. The effort paid off!|Cub Training|Gain 300
+Desert storm sweeps through the territory|Straight to the Pride Lands|Lose 500
+Helped an elder lion. Gained wisdom.|Cub Training|Gain 300
+Caught a rare bird. Pride grows!|Straight to the Pride Lands|Gain 500
+Lost in the wetlands. Struggle continues.|Cub Training|Lose 400
+Encountered hyenas. Lost food.|Straight to the Pride Lands|Lose 200

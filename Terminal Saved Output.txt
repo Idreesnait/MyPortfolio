@@ -1,0 +1,24 @@
+Last login: Mon Aug 26 14:41:44 on ttys002
+idrees@Idreess-MacBook-Air ~ % 
+idrees@Idreess-MacBook-Air ~ % g++
+clang: error: no input files
+idrees@Idreess-MacBook-Air ~ % 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
